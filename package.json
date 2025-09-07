@@ -1,5 +1,5 @@
 {
-  "name": "github-agent",
+  "name": "thapar-chatbot",
   "module": "index.ts",
   "type": "module",
   "private": true,
